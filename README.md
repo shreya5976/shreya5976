@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyachangawala" alt="shreyachangawala" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shivlahejat" target="blank"><img src="https://img.shields.io/twitter/follow/shivlahejat?logo=twitter&style=for-the-badge" alt="shivlahejat" /></a> </p>
 
 - 📝 I regularly write articles on [https://multicodegenius.com/blogs](https://multicodegenius.com/blogs)
 
